@@ -1,0 +1,3 @@
+Options -Indexes
+ErrorDocument 403 /customerror.php
+ErrorDocument 404 /customerror.php
